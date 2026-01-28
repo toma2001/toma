@@ -1,0 +1,13 @@
+# Obsidian: 画面レイアウト（毎回変わりやすいので除外推奨）
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/workspace-mobile.json
+
+# Obsidian: キャッシュ/ゴミ箱（ある場合）
+.obsidian/cache/
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+
